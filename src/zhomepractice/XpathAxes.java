@@ -9,7 +9,9 @@ import java.util.List;
 
 public class XpathAxes {
     public static void main(String[] args) {
-
+        // xpath Axes method by Ajit
+        // xpath Axes method by Ajit
+        // xpath Axes method by Ajit
         System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
